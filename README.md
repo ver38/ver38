@@ -2,7 +2,7 @@
 
 - 📫 If you want to reach me: **veronicaelisabettanatale@gmail.com**<br/><br/>
 - 🔭 I’m currently working on **Meowlody**, my music-based game!<br/><br/>
-- ⚡ Fun fact: **People say that when I’m coding I look like this:**
+- ⚡ Fun fact: people say that when I’m coding **I look like this:**
  <img src=
  "https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="GeeksforGeeks logo"
         align="center" style="width: 100px;"><br/><br/>
