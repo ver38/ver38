@@ -1,7 +1,7 @@
 <h1 align="center">Hey people 👋, I'm Veronica!</h1>
 
 - 📫 If you want to reach me: **veronicaelisabettanatale@gmail.com**<br/><br/>
-- 🔭 I’m currently working on **Meowlody**, my music-based game!<br/><br/>
+- 🔭 I’m currently working on **Meowing Melody**, my music-based game published on AppStore!<br/><br/>
 - ⚡ Fun fact: people say that when I’m coding **I look like this ---->**
  <img src=
  "https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="GeeksforGeeks logo"
