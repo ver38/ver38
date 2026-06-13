@@ -1,8 +1,8 @@
 <h1 align="center">Hey people 👋, I'm Veronica!</h1>
 
-- 👩‍💻 check here to learn more about me: https://ver38.github.io
+- 💻 iOS Mobile Developer with a taste for Game Development 
 - 📫 If you want to reach me: **veronicaelisabettanatale@gmail.com**<br/><br/>
-- ⚡ Fun fact: people say that when I’m coding **I look like this ---->**
+- ⚡ Fun fact: people say that when I’m working **I look like this ---->**
  <img src=
  "https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="GeeksforGeeks logo"
         align="center" style="width: 100px;"><br/><br/>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/theblonderedhead__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theblonderedhead__" height="30" width="40" /></a>
+<a href="https://instagram.com/_reverever_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theblonderedhead__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
